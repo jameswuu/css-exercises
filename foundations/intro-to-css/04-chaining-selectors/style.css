@@ -2,7 +2,7 @@
 /* I am only applying the style if the element has these two classes */
 .avatar.proportioned {
     width: 300px;
-    height: fit-content;
+    height: auto;
 }
 
 .avatar.distorted {
